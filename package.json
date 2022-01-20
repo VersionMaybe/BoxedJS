@@ -1,0 +1,15 @@
+{
+  "name": "boxedjs",
+  "version": "1.0.0",
+  "description": "A light-weight and open-source library to create custom web components quickly and with enhanced features",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web",
+    "components"
+  ],
+  "author": "Haydn Comley",
+  "license": "MIT"
+}
